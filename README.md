@@ -1,7 +1,6 @@
 # keyboardMonitor
 For selecting keyboard switch for my hotswappable
 (code is very easy to read)<br/>
-
 ## There are 3 files here<br />
 
 #### 1) keyboardmonitor.py
@@ -18,6 +17,7 @@ For selecting keyboard switch for my hotswappable
 #### 3) graphcompiler.py
   import df from 2 and return or show image of keyboard with color and number as permillion<br />
   (plot "presstime" and "presslong/presstime"; you can edit it as you want)
+  ![alt text](https://github.com/fah-OwO/keyboardMonitor/blob/main/presstimesExample.jpg)
   
 ## Summary:
 
